@@ -15,6 +15,8 @@ to be easier to read and understand.
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Docker](#docker)
+* [License](#license)
 
 ## Requirements
 
